@@ -1,0 +1,25 @@
+//I will alter this file to be a .csv file later to keep it more organized (prompt->output relation) 
+//and add comments to each prompt this is only an example
+
+//first prompts:
+for each of these short jokes please annotate the punchline and then in brackets write what about the joke is funny: "ID","Joke"
+1,"[me narrating a documentary about narrators] ""I can't hear what they're saying cuz I'm talking"""
+2,"Telling my daughter garlic is good for you. Good immune system and keeps pests away.Ticks, mosquitos, vampires... men."
+3,"I've been going through a really rough period at work this week It's my own fault for swapping my tampax for sand paper."
+4,"If I could have dinner with anyone, dead or alive... ...I would choose alive. -B.J. Novak-"
+5,"Two guys walk into a bar. The third guy ducks."
+6,"Why can't Barbie get pregnant? Because Ken comes in a different box. Heyooooooo"
+7,"Why was the musician arrested? He got in treble."
+8,"Did you hear about the guy who blew his entire lottery winnings on a limousine? He had nothing left to chauffeur it."
+9,"What do you do if a bird shits on your car? Don't ask her out again."
+10,"He was a real gentlemen and always opened the fridge door for me"
+11,"Telling my daugthers date that ""she has lice and its very contagious the closer you get to her."" *Correct way to parent."
+12,"What should you do before criticizing Pac-Man? WAKA WAKA WAKA mile in his shoes"
+13,"What's the difference between an illegal Mexican and an autonomous robot...? Nothing... they were both made to steal American jobs."
+14,"What do you call a barbarian you can't see? an Invisigoth."
+15,"How do you spell Canda? C,eh,N,eh,D,eh"
+16,"You ever notice that the most dangerous thing about marijuana is getting caught with it?"
+17,"What did Arnold Schwarzenegger say at the abortion clinic? Hasta last vista, baby."
+18,"My wife is in a bad mood. I think her boyfriend forgot their anniversary. Way to go, dude. Now we all suffer..."
+19,"My speech today will be like a mini-skirt. Long enough to cover the essentials but short enough to hold your attention!"
+20,"Thanksgiving joke What does Miley Cyrus eat for Thanksgiving? Twerky! Just kidding... Drugs. She eats drugs. -Adam Zopf @adamzopf"
