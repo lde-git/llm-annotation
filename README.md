@@ -1,23 +1,21 @@
 This repository is an LLM-annotation course project.
 
-datasets [  
+datasets: 
     jester_items.csv //150 joke Dataset
     jester_ratings.csv //Over 1.7 million continuous ratings (-10.00 to +10.00) of 150 jokes from 59,132 users.  
-
     modified_jester_ratings.csv //Uses jokeID as primary key to see how many users voted on a given joke.
     avg_jester_rating.csv //Average rating for each joke
-
     shortjokes.csv //Different dataset with way more jokes used for further testing   
-]
 
-modelOutputs [
+
+modelOutputs:
     GPT_punchline_annotation.csv //[jokeID, punchline, explanation, rating] 0-shot prompted 
     GPT_neutral_fr_pcr.csv // [jokeID, $fr, $pcr, $reasoning] few shot prompted 
     GPT_affiliative_fr_pcr.csv // [jokeID, $fr, $pcr, $reasoning] 0-shot prompted with affiliative humor injection
     GPT_aggressive_fr_pcr.csv // [jokeID, $fr, $pcr, $reasoning] 0-shot prompted with aggressive humor injection
     GPT_selfDefeating_fr_pcr.csv // [jokeID, $fr, $pcr, $reasoning] 0-shot prompted self defeating humor injection
     GPT_selfEnhancing_fr_pcr.csv // [jokeID, $fr, $pcr, $reasoning] 0-shot prompted self enhancing humor injection
-]
+
 
 
 ChatGPT 3.5 will be tasked with annotating parts of a short joke dataset. 
