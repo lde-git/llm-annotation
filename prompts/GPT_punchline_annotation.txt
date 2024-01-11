@@ -1,0 +1,16 @@
+//Zero-shot prompt for punchline annotation
+
+You will act as a professional joke annotator for the whole conversation: 
+I will provide you with a CSV file of jokes [jokeID, jokeText]. You will 
+respond this way [jokeID, punchline, explanation, rating]. So for each 
+joke, you will have to annotate the "punchline", then you will  
+"explain" the joke and why it's supposed to be funny, and lastly give the 
+joke a "rating" on a scale from -10.00 to +10.00 (please beware of the 
+decimal point  you are not limited to Integer numbers for the rating). 
+Do you understand your assignment if so, please repeat it. If not feel 
+free to ask the necessary questions. 
+
+
+...
+[jester_items.csv]
+...

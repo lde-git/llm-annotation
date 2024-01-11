@@ -1,0 +1,132 @@
+jokeID, $fr, $pcr, $reasoning
+1, 7.5, 8.0, The joke has a clever twist, and the humor is light-hearted and not offensive.
+2, 6.5, -4.0, The joke has a surprise element, but it involves sensitive subject matter and may be offensive to some.
+3, 8.0, 7.0, The joke is light-hearted and plays on a common situation at concerts. It's not offensive.
+4, 6.0, 6.0, The joke is a play on words and is relatively light-hearted. It may be considered slightly crude but not highly offensive.
+5, 7.0, 6.5, The joke is a play on O.J. Simpson's legal troubles and is humorous without being overly offensive.
+6, 7.5, 6.0, The joke involves a playful banter between Bill and Hillary Clinton and is not particularly offensive.
+7, 0.0, -8.0, The joke may be considered offensive as it dismisses the question without providing any humor.
+8, 8.0, 7.5, The joke plays on the concept of dyslexia and devil worship in a light-hearted way. It's not highly offensive.
+9, 7.0, 6.5, The joke involves a clever workaround for a dress code and is not offensive.
+10, 7.5, 7.0, The joke is a classic example of a play on words and is relatively light-hearted. It's not highly offensive.
+11, 7.0, 4.0, The joke involves a common stereotype but is not highly offensive. It may still be sensitive to some.
+12, 8.0, 7.0, The joke involves golf and marriage in a light-hearted manner. It's not highly offensive.
+13, 6.5, 5.0, The joke is a play on the word "elections" and is not offensive, though it may not resonate with everyone.
+14, 7.0, -3.0, The joke involves a misunderstanding with sexual innuendo, which may be offensive to some.
+15, 6.0, 6.5, The joke involves a play on words related to matzah and blindness. It's not highly offensive.
+16, 8.0, 8.0, The joke has a simple yet effective play on words and is light-hearted. It's not offensive.
+17, 5.0, -4.5, The joke relies on a stereotype and may be offensive to some. It lacks a clever twist.
+18, 7.0, 7.0, The joke involves a clever interaction with the dog, and the humor is light-hearted. It's not offensive.
+19, 6.0, 5.5, The joke involves a play on language stereotypes. While not highly offensive, it may not resonate with everyone.
+20, 7.5, 7.0, The joke plays on the differences between a MacIntosh and an Etch-A-Sketch in a light-hearted manner. It's not offensive.
+21, 8.0, 3.0, The joke involves a play on words and is relatively light-hearted. However, it may be considered crude and offensive to some.
+22, 7.0, 6.5, The joke involves a play on words related to a duck and a condom. It's not highly offensive.
+23, 6.5, 7.5, The joke involves a play on words with a clever twist. It's light-hearted and not offensive.
+24, 7.0, 7.0, The joke involves a play on words related to a parakeet and a lawnmower. It's not highly offensive.
+25, 7.0, 7.0, The joke involves a play on words with a light-hearted twist. It's not offensive.
+26, 8.0, 7.0, The joke involves a clever play on words and a light-hearted response. It's not highly offensive.
+27, 7.5, 6.5, The joke involves a play on words related to Arkansas Razor-Back Hogs. It's not highly offensive.
+28, 8.0, 6.5, The joke involves a play on the different perspectives of engineers. It's light-hearted and not offensive.
+29, 7.5, -1.0, The joke involves a play on words but may be considered offensive due to the subject matter.
+30, 7.0, 7.5, The joke involves a play on the professions of a Lawyer and a Plumber. It's light-hearted and not offensive.
+31, 6.5, 7.0, The joke involves a play on words related to an Abortion Bill. It's light-hearted and not highly offensive.
+32, 8.0, 7.0, The joke involves a clever play on different religious groups in heaven. It's not offensive.
+33, 7.0, 5.0, The joke relies on a stereotype and may be considered mildly offensive. It lacks a clever twist.
+34, 8.0, 6.0, The joke involves a play on words related to a shooting incident. It's light-hearted and not highly offensive.
+35, 8.5, 7.0, The joke has a clever twist and involves a play on the explorer's situation. It's not highly offensive.
+36, 8.0, 4.0, The joke involves a play on Polish stereotypes and may be considered offensive to some.
+37, 8.0, 5.5, The joke involves a play on a Freudian theme and may be considered mildly offensive.
+38, 7.0, 6.5, The joke involves a play on words related to preparing chickens. It's light-hearted and not highly offensive.
+39, 7.5, 4.0, The joke involves a play on gender stereotypes and may be considered offensive to some.
+40, 7.5, 6.5, The joke involves a play on Irish stereotypes. It's light-hearted but may be considered mildly offensive.
+41, 0.0, -8.0, The joke involves explicit content and may be offensive to some.
+42, 7.5, 5.5, The joke involves a playful comparison between men and women. It's not highly offensive.
+43, 8.0, 7.0, The joke involves a play on words related to the names of Arnold Schwarzenegger and Sylvester Stallone. It's not offensive.
+44, 7.0, 7.0, The joke involves a classic play on words related to a horse. It's not highly offensive.
+45, 7.5, 7.0, The joke involves a play on words related to a school play. It's not highly offensive.
+46, 8.0, 6.5, The joke involves a play on words related to hiring a prostitute. It's light-hearted, but the subject matter may be considered sensitive.
+47, 8.5, 7.5, The joke involves a clever play on the value of the engineer's service. It's not highly offensive.
+48, 7.5, 7.0, The joke involves a play on different academic degrees. It's light-hearted and not offensive.
+49, 7.0, 6.0, The joke involves a play on different engineering disciplines. It's light-hearted but may be considered mildly offensive.
+50, 8.0, 7.0, The joke involves a play on the concept of confession and religious identity. It's not highly offensive.
+51, 7.5, 6.5, The joke involves a play on words related to Clinton and the national bird. It's light-hearted and not highly offensive.
+52, 7.5, 7.0, The joke involves a play on words related to Monica Lewinsky and Bob Dole. It's not highly offensive.
+53, 8.0, 6.5, The joke involves a play on a family situation with a humorous twist. It's not highly offensive.
+54, 8.5, 7.0, The joke involves a play on words related to the Pope and the Bible. It's light-hearted and not highly offensive.
+55, 8.0, 7.0, The joke involves a play on words related to twins and their names. It's light-hearted and not highly offensive.
+56, 8.5, 6.0, The joke involves a play on a desert island scenario with a humorous twist. It may be considered mildly offensive.
+57, 7.0, 7.0, The joke involves a play on the commonality of the last name Jones. It's light-hearted and not offensive.
+58, 7.5, 7.0, The joke involves a play on the number of teddy bears needed to change a lightbulb. It's light-hearted and not offensive.
+59, 7.0, 6.5, The joke involves a play on the Chukcha's question to become a Parliament member. It's light-hearted and not highly offensive.
+60, 8.0, 7.5, The joke involves a play on words related to Buddhism and ordering a hot dog. It's light-hearted and not offensive.
+61, 8.5, 7.0, The joke involves a play on words related to fortune telling and legal matters. It's light-hearted, but the subject matter may be considered sensitive.
+62, 8.0, 7.5, The joke involves a play on the difference between managers and an engineer's practical approach. It's light-hearted and not offensive.
+63, 8.5, 7.5, The joke involves a play on the problem-solving approaches of an engineer, physicist, and mathematician. It's light-hearted and not offensive.
+64, 8.0, 7.0, The joke involves a play on words related to dyslexia. It's light-hearted and not offensive.
+65, 8.5, 5.5, The joke involves a play on words related to a medical maneuver. It may be considered mildly offensive due to the nature of the humor.
+66, 8.0, 7.0, The joke involves a play on the priorities of a lawyer in a car accident. It's light-hearted and not highly offensive.
+67, 7.5, 7.0, The joke involves a play on words related to brooms and marriage. It's light-hearted and not offensive.
+68, 8.0, 7.5, The joke involves a play on the communication between a balloonist and a man on the ground. It's light-hearted and not offensive.
+69, 8.5, 7.0, The joke involves a play on words related to marriage and golf clubs. It's light-hearted, but the subject of death and remarriage may be considered sensitive.
+70, 8.0, 7.5, The joke involves a play on words related to responsibility. It's light-hearted and not offensive.
+71, 8.5, 6.5, The joke involves a play on words related to computer commands. It's light-hearted, but the subject matter may be considered geeky rather than offensive.
+72, 8.0, 7.0, The joke involves a play on rules about dormitories and fines. It's light-hearted and not offensive.
+73, 8.5, 7.0, The joke involves a play on the characteristics of historical figures. It's light-hearted and not highly offensive.
+74, 8.0, 7.0, The joke involves a play on words related to stalkers and light bulbs. It's light-hearted and not offensive.
+75, 7.5, 6.0, The joke involves a play on words related to intelligence and Sasquatch. It's light-hearted, but some may find it mildly offensive.
+76, 8.0, 7.5, The joke involves a play on words related to a car wreck and celebration. It's light-hearted and not offensive.
+77, 8.0, 6.5, The joke involves a play on words related to the terms pro and con. It's light-hearted and not offensive.
+78, 8.0, 6.5, The joke involves a play on words related to the government and the Mafia. It's light-hearted and may be considered mildly critical of the government.
+79, 8.0, 6.5, The joke involves a play on words related to IRS Form 1040. It's light-hearted and may be considered mildly critical of the IRS.
+80, 8.5, 7.0, The joke involves a play on words related to throwing money and happiness. It's light-hearted, but some may find it mildly offensive.
+81, 8.0, 7.0, The joke involves a play on words related to currency exchange and fluctuations. It's light-hearted and not highly offensive.
+82, 8.0, 7.0, The joke involves a play on words related to computer programming. It's light-hearted and not offensive.
+83, 8.0, 7.0, The joke involves a play on the communication gap between men and women. It's light-hearted and not offensive.
+84, 8.5, 7.5, The joke involves a play on the difference between Mechanical Engineers and Civil Engineers. It's light-hearted and not offensive.
+85, 8.0, 7.0, The joke involves a play on words related to Presidents and light bulbs. It's light-hearted and not highly offensive.
+86, 9.0, 8.5, The joke involves a play on words related to neutrons and charges. It's clever and light-hearted, suitable for most audiences.
+87, 8.5, 7.0, The joke involves a play on words related to a medical diagnosis. It's dark humor with a twist, and some may find it amusing while others may find it morbid.
+88, 8.0, 7.0, The joke involves a play on words related to eyesight testing. It's light-hearted and relies on wordplay.
+89, 9.0, 8.5, The joke involves a humorous exchange between a naval ship and a lighthouse. It's clever and light-hearted, suitable for most audiences.
+90, 8.5, 7.5, The joke involves a play on words related to programmers and hardware problems. It's light-hearted and suitable for most audiences.
+91, 9.0, 8.0, The joke involves a play on words related to the definition of a Panda bear. It's clever and light-hearted, suitable for most audiences.
+92, 8.0, 7.0, The joke involves a play on the reasons for not wanting to go to school. It's light-hearted and suitable for most audiences.
+93, 8.5, 7.5, The joke involves a play on words related to a job interview. It's light-hearted, and while it may be amusing to some, others might find it a bit predictable.
+94, 9.0, 8.5, The joke involves a play on words related to atoms and electrons. It's clever and light-hearted, suitable for most audiences.
+95, 8.5, 8.0, The joke involves a play on the saying "walk a mile in someone's shoes." It's a clever twist and light-hearted, suitable for most audiences.
+96, 8.0, 7.5, The joke involves a play on the stereotype of attorneys. It's light-hearted and relies on a common attorney stereotype, suitable for most audiences.
+97, 8.0, 7.5, The joke involves a play on the double negative concept. It's a classic linguistic joke and is light-hearted, suitable for most audiences.
+98, 8.5, 7.0, The joke involves a play on the comparison between a woman's age and continents. It uses stereotypes about continents and ages, and some may find it amusing while others might consider it less politically correct.
+99, 8.0, 8.0, The joke involves a play on the word "station" in different contexts. It's light-hearted and suitable for most audiences.
+100, 8.0, 7.5, The joke involves a play on the difference between greeting a queen and the President of the United States. It's light-hearted and relies on a play on words, suitable for most audiences.
+101, 8.5, 8.5, The joke involves a play on words related to Buddhist beliefs and dental medication. It's clever and light-hearted, suitable for most audiences.
+102, 8.0, 8.0, The joke involves a play on the concept of freedom and the innocence of a child's response. It's light-hearted and suitable for most audiences.
+103, 8.0, 8.5, The joke involves a play on the visibility of an invisible man. It's a classic play on words and is light-hearted, suitable for most audiences.
+104, 8.5, 7.5, The joke involves a play on the relevance of physics in a pre-med class. It's clever and may resonate with those familiar with academic settings. However, some may find it less politically correct due to the reference to "idiots."
+105, 8.0, 8.0, The joke involves a play on the process of confirming someone's death. It's dark humor, and while it might be amusing to some, others may find it less politically correct due to the nature of the subject.
+106, 8.0, 7.5, The joke involves a play on the stereotypes of engineers. It's light-hearted and suitable for most audiences.
+107, 8.5, 8.0, The joke involves a play on correlation and causation. It's a humorous take on drawing conclusions from different scenarios, suitable for most audiences.
+108, 8.0, 8.0, The joke involves a play on seeking assistance by pretending to be lost. It's light-hearted and suitable for most audiences.
+109, 8.0, 7.5, The joke involves a play on the concept of life after death. It's light-hearted and suitable for most audiences.
+110, 8.0, 8.0, The joke involves a play on attaching a monetary value to test scores. It's light-hearted and suitable for most audiences.
+111, 8.5, 8.0, The joke involves a play on the misunderstanding of a floral arrangement card. It's clever and suitable for most audiences.
+112, 8.0, 7.5, The joke involves a play on the use of water guns. It's light-hearted and suitable for most audiences.
+113, 8.0, 8.0, The joke involves a play on understanding a paper shredder. It's light-hearted and suitable for most audiences.
+114, 8.0, 8.5, The joke involves a play on the observation of stars and making deductions. It's clever and suitable for most audiences.
+115, 8.0, 8.5, The joke involves a play on the automatic nature of an audio system. It's light-hearted and suitable for most audiences.
+116, 8.0, 7.5, The joke involves a play on the interaction between an engineer and a manager. It's light-hearted and suitable for most audiences.
+117, 8.0, 8.0, The joke involves a play on a trainee's interaction with the CEO. It's light-hearted and suitable for most audiences.
+118, 8.0, 8.0, The joke involves a play on the unconventional treatment for hiccups. It's light-hearted and suitable for most audiences.
+119, 8.0, 8.5, The joke involves a play on a child's interpretation of a story. It's light-hearted and suitable for most audiences.
+120, 8.0, 8.0, The joke involves a play on an ID Ten T Error. It's light-hearted and suitable for most audiences.
+121, 8.0, 8.0, The joke involves a play on the concept of an invisible man in a confessional booth. It's light-hearted and suitable for most audiences.
+122, 8.5, 7.5, The joke involves a play on the nationalities and perspectives of an astronomer, physicist, and mathematician. It's clever and suitable for most audiences.
+123, 8.5, 8.0, The joke involves a play on Chuck Norris's mythical abilities. It's light-hearted and suitable for most audiences.
+124, 8.0, 8.0, The joke involves a play on the classic knock-knock joke. It's light-hearted and suitable for most audiences.
+125, 8.0, 8.5, The joke involves a play on the misunderstanding of a Spanish dish. It's light-hearted, but some may find it less politically correct due to cultural references.
+126, 8.0, 8.0, The joke involves a play on national stereotypes in viewing a painting. It's light-hearted and suitable for most audiences.
+127, 8.5, 7.5, The joke involves a play on explaining politics to a child. It's light-hearted, but some may find it less politically correct due to the language used.
+128, 8.0, 7.5, The joke involves a play on life after death and negotiation skills. It's light-hearted, but some may find it less politically correct due to the subject matter.
+129, 8.5, 7.5, The joke involves a play on the concept of pleasing women. It's light-hearted, but some may find it less politically correct due to stereotypes.
+130, 8.0, 8.0, The joke involves a play on medical samples. It's light-hearted and suitable for most audiences.
+131, 8.0, 7.5, The joke involves a play on the idea of seeking help from a psychiatrist. It's light-hearted, but some may find it less politically correct due to the language used.
